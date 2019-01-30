@@ -19,4 +19,18 @@
         <content>Disfruta de los trailers de tus juegos favoritos en RetroJaén!!</content>
         <category>Videos</category>
     </entry>
+    <entry>
+        <title>Tienda</title>
+        <link href="https://alexelbueno.github.io/web3/html/tienda.html"/>
+        <summary>Página de tienda de RetroJaén</summary>
+        <content>Gasta todo tu dinero en RetroJaén!!</content>
+        <category>Juegos</category>
+    </entry>
+    <entry>
+        <title>Contacto</title>
+        <link href="https://alexelbueno.github.io/web3/html/contacto.html"/>
+        <summary>Página de contacto de RetroJaén</summary>
+        <content>Contacta con nosotros</content>
+        <category>Juegos</category>
+    </entry>
 </feed>
