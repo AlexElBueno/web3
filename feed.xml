@@ -2,7 +2,7 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <channel>
 	<title>RetroJaén</title>
-	<atom:link href="https://alexelbueno.github.io/web3/feed.xml" rel="self"/>
+	<atom:link href="https://alexelbueno.github.io/web3/feed.xml" rel="self" type="application/rss+xml"/>
 	<link>https://alexelbueno.github.io/web3</link>
 	<description>Página de la tienda de RetroJaén</description>
 	<language>es-ES</language>
