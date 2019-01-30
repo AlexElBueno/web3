@@ -1,11 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0">
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <channel>
-	<title>Tienda</title>
-	<link>https://alexelbueno.github.io/web3/html/tienda.html</link>
+	<title>RetroJaén</title>
+	<atom:link href="https://alexelbueno.github.io/web3/feed.xml" rel="self" type="application/rss+xml"/>
+	<link>https://alexelbueno.github.io/web3</link>
 	<description>Página de la tienda de RetroJaén</description>
 	<language>es-ES</language>
-	<pubDate>Thu, 24 Jan 18:00:00 GMT</pubDate>
-	<lastBuildDate>Thu, 24 Jan 18:58:50 GMT</lastBuildDate>
+	<item>
+		<title>Página de inicio</title>
+		<link>https://alexelbueno.github.io/web3</link>
+		<description>Bienvenido a RetroJaén</description>
+		<guid>https://alexelbueno.github.io/web3</guid>
+	</item>
+	<item>
+		<title>Videos</title>
+		<link>https://alexelbueno.github.io/web3/html/videos.html</link>
+		<description>Videos de RetroJaén</description>
+		<guid>https://alexelbueno.github.io/web3/html/videos.html</guid>
+	</item>
 </channel>
 </rss>
