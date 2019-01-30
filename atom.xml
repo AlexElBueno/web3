@@ -1,0 +1,22 @@
+<?xml version="1.0" ?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>RetroJaén</title>
+    <link href="https://alexelbueno.github.io/web3"/>
+    <author>
+    <name>Alejandro el Bueno</name>
+    </author>
+    <entry>
+        <title>Página principal</title>
+        <link href="https://alexelbueno.github.io/web3"/>
+        <summary>Página principal de RetroJaén</summary>
+        <content>Bienvenido a la página principal de RetroJaén!!</content>
+        <category>Juegos</category>
+    </entry>
+    <entry>
+        <title>Videos</title>
+        <link href="https://alexelbueno.github.io/web3/html/videos.html"/>
+        <summary>Página de videos de RetroJaén</summary>
+        <content>Disfruta de los trailers de tus juegos favoritos en RetroJaén!!</content>
+        <category>Videos</category>
+    </entry>
+</feed>
